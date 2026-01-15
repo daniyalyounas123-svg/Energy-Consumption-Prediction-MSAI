@@ -1,6 +1,5 @@
-Week 1: Foundation & Data Pipeline
 Project Title: Energy Consumption Forecasting & Optimization
-
+Week 1: Foundation & Data Pipeline
 Status: ✅ Completed
 
 Focus: Data Ingestion, Feature Engineering, and Research Setup
